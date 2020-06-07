@@ -9,6 +9,8 @@ Scheme:
 - Sequence between two anchors: global alignment , general penalty score
 - Hanging seqeunce (sequence before the first anchor and sequence after the last anchor): local alignment, general penalty score
 
+PS: Requirement: Python >= 3.7.1
+
 
 ### Example usage
 ```
