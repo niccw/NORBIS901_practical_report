@@ -7,9 +7,6 @@ import numpy as np
 from collections import OrderedDict
 
 
-# reference: https://github.com/aeyc/allAlign/tree/d6279b02a0f256412bb5ffb33f6b854e0dae9547
-# reference: https://github.com/risky998/NW-Algos/blob/master/nwaffine.py
-
 class Seq:
     def __init__(self,seq_id:str,seq:str):
         self.seq_id = seq_id
